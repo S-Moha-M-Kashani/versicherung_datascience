@@ -153,3 +153,6 @@ dmypy.json
 cython_debug/
 
 *.arff
+
+# JetBrains IDE
+.idea/
